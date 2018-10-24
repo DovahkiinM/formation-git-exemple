@@ -1,1 +1,4 @@
-J'adore jongler avec les branches !
+<<<<<<< HEAD
+=======
+Je suis sûr que tu sauras gérer ce conflit avec brio
+>>>>>>> origin/merge-me-please
